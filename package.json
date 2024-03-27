@@ -1,6 +1,6 @@
 {
   "name": "ahmedzai73-students_marks_sheet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is students marks sheet",
   "main": "index.js",
   "type": "module",
